@@ -6,6 +6,6 @@ Study-Python
 - I use site named Klue where Korea University students search the overall evaluation and select their courses.
 
 Model
-Input : any texts 
-Output : Good or bad
+- Input : any texts 
+- Output : Good or bad
 
